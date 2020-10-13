@@ -1,6 +1,6 @@
 // capitalizeFirstLetters.js
 const assert = require("assert");
-const capitalizeFirst = require("../capitalizeFirstLetters");
+const capitalizeFirstLetters = require("../capitalizeFirstLetters");
 
 // give the test suite a label using describe
 describe("capitalizeFirstLetters", () => {
